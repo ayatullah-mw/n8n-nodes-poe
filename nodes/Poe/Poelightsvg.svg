@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <path id="robot_bubble" d="M30 15h40a15 15 0 0 1 15 15v30a15 15 0 0 1-15 15H50L30 90V75H20a15 15 0 0 1-15-15V30a15 15 0 0 1 15-15z"/>
+  </defs>
+  
+  <use href="#robot_bubble" x="12" y="10" fill="#4285F4"/>
+  
+  <use href="#robot_bubble" x="6" y="5" fill="#C13584"/>
+  
+  <use href="#robot_bubble" x="0" y="0" fill="#FFFFFF"/>
+  
+  <rect x="25" y="30" width="50" height="25" rx="5" ry="5" fill="#333333"/>
+  
+  <rect x="35" y="37" width="8" height="11" rx="4" ry="4" fill="#FFFFFF"/>
+  <rect x="57" y="37" width="8" height="11" rx="4" ry="4" fill="#FFFFFF"/>
+</svg>
