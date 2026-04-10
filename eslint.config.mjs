@@ -1,3 +1,4 @@
-import eslintConfig from '@n8n/node-cli/eslint.config.mjs';
+import { config } from '@n8n/node-cli/eslint';
 
-export default eslintConfig;
+export default config;
+
